@@ -6,8 +6,22 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 
 public class ItemDetailActivity extends AppCompatActivity {
+
+    private TextView listTitle;
+    private EditText itemTitle;
+    private TextView dueOn;
+    private EditText actualDueDate;
+    private TextView location;
+    private EditText actualLocation;
+    private TextView assignedTo;
+    private EditText assignee;
+    private TextView toDoDetails;
+    private EditText actualToDoDetails;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
