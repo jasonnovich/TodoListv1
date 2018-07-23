@@ -1,4 +1,4 @@
-package o2pm.com.todolistv1;
+package o2pm.com.todolistv1.activities;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -6,6 +6,8 @@ import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
+
+import o2pm.com.todolistv1.R;
 
 public class ItemListActivity extends AppCompatActivity {
 
