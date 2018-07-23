@@ -13,4 +13,5 @@
     <string name="actual_date">Pick a Date</string>
     <string name="item_details"><u>To Do Details</u></string>
     <string name="to_do_details">Enter the details of the task</string>
+    <string name="category">Category:</string>
 </resources>
